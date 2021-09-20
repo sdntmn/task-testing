@@ -1,0 +1,16 @@
+.elements {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 22px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 880px) {
+  .elements {
+    padding-top: 16px;
+  }
+}

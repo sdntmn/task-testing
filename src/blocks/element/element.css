@@ -1,0 +1,9 @@
+.element {
+  position: relative;
+  list-style: none;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 10px;
+}

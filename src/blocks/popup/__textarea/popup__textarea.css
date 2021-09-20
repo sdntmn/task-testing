@@ -1,0 +1,8 @@
+.popup__textarea {
+  margin: 0;
+  padding: 0;
+  max-width: 358px;
+  width: 100%;
+  margin-top: 44px;
+  max-height: 90px;
+}
